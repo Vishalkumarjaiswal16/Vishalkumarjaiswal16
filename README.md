@@ -20,7 +20,7 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 ### Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p>
 
 ### AI & ML Technologies
@@ -34,10 +34,8 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-kumar-614924325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal kumar" height="30" width="40" /></a>
-<a href="https://twitter.com/@vishalj56929767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vishalj56929767" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/Vishalkumar4141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalkumar4141" height="30" width="40" /></a>
 <a href="https://geeksforgeeks.org/profile/vishaljaixzzv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishaljaixzzv" height="30" width="40" /></a>
-<a href="https://github.com/Vishalkumarjaiswal16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vishalkumarjaiswal16" height="30" width="40" /></a>
 </p>
 
 ## 📊 GitHub Stats
