@@ -37,7 +37,6 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 <a href="https://www.leetcode.com/u/Vishalkumar4141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalkumar4141" height="30" width="40" /></a>
 <a href="https://geeksforgeeks.org/profile/vishaljaixzzv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishaljaixzzv" height="30" width="40" /></a>
 </p>
----
 
 <p align="center">
   <i>"Building intelligent systems that bridge the gap between AI and real-world applications"</i>
