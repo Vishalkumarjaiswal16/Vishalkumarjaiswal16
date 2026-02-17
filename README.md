@@ -12,7 +12,6 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 - 🔭 Currently working on **RAG Systems & LLM Applications**
 - 🌱 Learning **Advanced RAG Architectures, Multi-Agent Systems**
 - 🏆 **Smart India Hackathon 2025 Grand Finalist**
-- 🎓 B.Tech in Computer Science from **KR Mangalam University** 
 - 📫 Reach me at **vishaljaiswalk885@gmail.com**
 - 💬 Ask me about **Generative AI, LangChain, RAG, LLMs, FastAPI**
 
@@ -30,21 +29,6 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 - **Libraries**: Pandas, NumPy, OpenCV
 - **Tools**: Git, GitHub, Docker
 - **Databases**: DBMS, Time-series databases, Relational databases
-
-## 💻 Featured Projects
-
-### 🤖 LangChain Ollama Streamlit Chatbot
-- Designed a conversational AI chatbot enabling local LLM interaction with response times under **2 seconds**
-- Enhanced prompt orchestration to maintain dynamic system context, reducing outdated responses by **30%**
-
-### 📚 RAG from Scratch
-- Implemented RAG pipelines extending LLM knowledge using external documents and embeddings
-- Designed end-to-end indexing, retrieval, and generation workflows, lowering inference costs by **25%**
-
-### 🚗 Traffic Monitoring AI
-- Engineered a real-time traffic monitoring system using **YOLOv8, OpenCV, and Python**
-- Optimized detection and tracking pipelines to process **20+ FPS** for traffic flow analysis
-
 
 ## 🤝 Connect with me
 
