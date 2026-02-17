@@ -12,24 +12,9 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 - 🔭 Currently working on **RAG Systems & LLM Applications**
 - 🌱 Learning **Advanced RAG Architectures, Multi-Agent Systems**
 - 🏆 **Smart India Hackathon 2025 Grand Finalist**
-- 🎓 B.Tech in Computer Science from **KR Mangalam University** (CGPA: 8.31/10.0)
+- 🎓 B.Tech in Computer Science from **KR Mangalam University** 
 - 📫 Reach me at **vishaljaiswalk885@gmail.com**
 - 💬 Ask me about **Generative AI, LangChain, RAG, LLMs, FastAPI**
-
-## 🏆 Achievements
-
-- 🥇 **Smart India Hackathon (SIH) 2025** - Grand Finalist at the national level
-- 🎖️ **LangChain Ambient Certification**
-- 💼 Active participant in multiple hackathons and technical events
-
-## 💼 Experience
-
-### Smart India Hackathon 2025 - Grand Finalist (Aug 2025 - Dec 2025)
-**Mine Sarthi: AI-Powered Mining Energy Optimization Platform**
-- Executed the design of an AI-driven platform optimizing energy consumption across iron ore mining operations
-- Engineered a real-time AI control system to dynamically adjust crusher speed based on ore hardness, achieving **20-35% reduction in energy usage**
-- Architected a low-latency MQTT and HTTP data pipeline streaming sensor data into time-series and relational databases
-- Integrated ore hardness classification models improving automated decision accuracy by **18%**
 
 ## 🛠️ Technical Skills
 
@@ -60,11 +45,6 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 - Engineered a real-time traffic monitoring system using **YOLOv8, OpenCV, and Python**
 - Optimized detection and tracking pipelines to process **20+ FPS** for traffic flow analysis
 
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science and Engineering**  
-KR Mangalam University, Gurgaon | 2024 - 2028  
-CGPA: **8.31/10.0**
 
 ## 🤝 Connect with me
 
