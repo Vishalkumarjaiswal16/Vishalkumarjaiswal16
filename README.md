@@ -9,7 +9,6 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 - 🌱 Learning **Advanced RAG Architectures, Multi-Agent Systems**
 - 🏆 **Smart India Hackathon 2025 Grand Finalist**
 - 📫 Reach me at **vishaljaiswalk885@gmail.com**
-- 💬 Ask me about **Generative AI, LangChain, RAG, LLMs, FastAPI**
 
 ## 🛠️ Technical Skills
 
