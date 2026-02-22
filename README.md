@@ -21,7 +21,7 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 - **Frameworks**: LangChain, FastAPI, Streamlit, PyTorch
 - **Libraries**: Pandas, NumPy, OpenCV
 - **Tools**: Git, GitHub, Docker
-- **Databases**: DBMS, Time-series databases, Relational databases
+- **Databases**: InfluxDB, ChromaDB, FAISS vector store, Time-series databases, Relational databases
 
 ## 🤝 Connect with me
 
