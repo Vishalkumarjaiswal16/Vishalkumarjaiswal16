@@ -6,7 +6,7 @@
 Aspiring **Generative AI Developer** focused on building intelligent systems using Machine Learning and Artificial Intelligence.
 - 🔭 Currently working on **RAG Systems & LLM Applications**
 - 🌱 Learning **Advanced RAG Architectures, Multi-Agent Systems**
-- 🏆 **Smart India Hackathon 2025 Grand Finalist**
+- 🏆 **Smart India Hackathon 2025 Finalist**
 
 ## 🛠️ Technical Skills
 
@@ -21,7 +21,7 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 - **Frameworks**: LangChain, FastAPI, Streamlit, PyTorch
 - **Libraries**: Pandas, NumPy, OpenCV
 - **Tools**: Git, GitHub, Docker
-- **Databases**: InfluxDB, ChromaDB, FAISS vector store, Time-series databases, Relational databases
+- **Databases**: InfluxDB, ChromaDB, FAISS vector store, Relational databases
 
 ## 🤝 Connect with me
 
