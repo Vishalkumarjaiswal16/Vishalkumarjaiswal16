@@ -23,8 +23,8 @@ AI-powered, full-stack and automation-based solutions while exploring scalable R
 
 #### Core
 <p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
 </p>
