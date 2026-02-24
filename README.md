@@ -24,6 +24,7 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
   <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
 </p>
+
 **Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
