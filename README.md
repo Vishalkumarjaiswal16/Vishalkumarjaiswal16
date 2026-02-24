@@ -3,7 +3,10 @@
 
 ## 🚀 About Me
 
-Aspiring **Generative AI Developer** focused on building intelligent systems using Machine Learning and Artificial Intelligence.
+I'm a **Generative AI Developer** focused on building intelligent systems using Machine Learning and Artificial Intelligence.
+Hands-on experience with **Large Language Models**, **LangChain**, and **Retrieval-Augmented Generation**. Skilled in creating
+AI-powered, full-stack and automation-based solutions while exploring scalable RAG architectures.
+
 - 🔭 Currently working on **RAG Systems & LLM Applications**
 - 🌱 Learning **Advanced RAG Architectures, Multi-Agent Systems**
 - 🏆 **Smart India Hackathon 2025 Finalist**
