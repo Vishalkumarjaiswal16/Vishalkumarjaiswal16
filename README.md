@@ -17,7 +17,13 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 </p>
 
 ### AI & ML Technologies
-- **Core**: Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)
+
+**Core**
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
+</p>
 
 **Frameworks**
 <p align="left">
@@ -41,7 +47,13 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-- **Databases**: InfluxDB, ChromaDB, FAISS vector store, Relational databases
+**Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Relational%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Relational DB"/>
+</p>
 
 ## 🤝 Connect with me
 
