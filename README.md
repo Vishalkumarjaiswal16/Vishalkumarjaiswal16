@@ -4,8 +4,8 @@
 ## 🚀 About Me
 
 I'm a **Generative AI Developer** focused on building intelligent systems using Machine Learning and Artificial Intelligence.
-Hands-on experience with **Large Language Models**, **LangChain**, and **Retrieval-Augmented Generation**.
-
+Hands-on experience with **Large Language Models**, **LangChain**, and **Retrieval-Augmented Generation**. Skilled in creating
+AI-powered, full-stack and automation-based solutions while exploring scalable RAG architectures.
 
 - 🔭 Currently working on **RAG Systems & LLM Applications**
 - 🌱 Learning **Advanced RAG Architectures, Multi-Agent Systems**
@@ -24,6 +24,7 @@ Hands-on experience with **Large Language Models**, **LangChain**, and **Retriev
 #### Core
 <p align="left">
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
 </p>
