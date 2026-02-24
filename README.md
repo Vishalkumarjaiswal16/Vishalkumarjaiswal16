@@ -21,7 +21,7 @@ Aspiring **Generative AI Developer** focused on building intelligent systems usi
 #### Core
 <p align="left">
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
 </p>
 
