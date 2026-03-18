@@ -56,7 +56,6 @@ AI-powered, full-stack and automation-based solutions while exploring scalable R
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB"/>
   <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Relational%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Relational DB"/>
 </p>
 
 ## 🤝 Connect with me
