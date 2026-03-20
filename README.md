@@ -11,7 +11,7 @@ AI-powered, full-stack and automation-based solutions while exploring scalable R
 - 🌱 Learning **Advanced RAG Architectures, Multi-Agent Systems**
 - 🏆 **Smart India Hackathon 2025 Finalist**
 
-## 🛠️ Technical Skills
+## 💻 Technical Skills
 
 ### Languages
 <p align="left">
