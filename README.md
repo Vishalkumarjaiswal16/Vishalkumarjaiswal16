@@ -15,7 +15,8 @@ AI-powered, full-stack and automation-based solutions while exploring scalable R
 
 ### Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="display:inline;"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="display:inline;"/></a>
 </p>
 
 ### AI & ML Technologies
@@ -40,7 +41,8 @@ AI-powered, full-stack and automation-based solutions while exploring scalable R
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 </p>
 
 #### Tools
@@ -60,7 +62,7 @@ AI-powered, full-stack and automation-based solutions while exploring scalable R
 ## 🤝 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vishal-kumar-614924325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/Vishalkumar4141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalkumar4141" height="30" width="40" /></a>
-<a href="https://geeksforgeeks.org/profile/vishaljaixzzv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishaljaixzzv" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vishal-kumar-614924325/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal kumar" height="30" width="40" style="display:inline;"/></a>&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/u/Vishalkumar4141" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalkumar4141" height="30" width="40" style="display:inline;"/></a>&nbsp;&nbsp;
+  <a href="https://geeksforgeeks.org/profile/vishaljaixzzv" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishaljaixzzv" height="30" width="40" style="display:inline;"/></a>
 </p>
