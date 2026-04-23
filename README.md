@@ -77,45 +77,6 @@ I'm a **Generative AI Developer** and **SIH 2025 National Finalist** with hands-
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB"/>
 </p>
 
-## 💼 Experience
-
-### AI Developer | SIH Grand Finalist
-**Smart India Hackathon 2025** — Onsite, Puducherry | Oct 2025 – Dec 2025
-
-- Developed 2 sequential ML models (Random Forest ore hardness classifier + Regression RPM optimizer) achieving **8–15% energy reduction** via MQTT autonomous control loop on the **Mine Sarthi** platform
-- Reached the **National Final at SIH 2025** as part of **Team XENITH**, competing against **500+ teams** across India for Problem Statement ID 25210
-- Stack: Python, FastAPI, React, Docker
-
-## 🔥 Projects
-
-### 🧠 VeriDoc — Enterprise RAG Knowledge Assistant
-`Python` `FastAPI` `LangChain` `Docker`
-
-- Built a production-grade, end-to-end RAG platform covering the full lifecycle: system architecture, backend API development, retrieval pipeline engineering, frontend integration, and live deployment
-- Engineered a document intelligence pipeline supporting conversational QA, summarization, and structured knowledge retrieval with chat history, document library management, and Docker-based production hosting
-
-### ✈️ Air India RAG Chatbot
-`Python` `AWS Bedrock` `ChromaDB` `Boto3`
-
-- Engineered a document-grounded RAG pipeline with LangChain and ChromaDB; integrated **AWS Bedrock** for secure, scalable LLM inference ensuring full data privacy and compliance within the customer's AWS account
-
-### 🎬 YouTube Video Chatbot
-`Python` `LangChain` `OpenAI API` `FAISS` `Streamlit`
-
-- Built an end-to-end RAG pipeline transforming any YouTube video into a queryable knowledge base, with automatic multi-language transcript translation for expanded accessibility
-
-### ⛏️ Mine Sarthi — AI-Powered Mining Energy Optimization
-`Python` `FastAPI` `React` `Scikit-learn` `MQTT`
-
-- Developed 2 sequential ML models achieving **8–15% energy reduction** via MQTT autonomous control loop
-- Built a real-time IoT data pipeline collecting 9 operational parameters (power, RPM, feed rate, temperature, vibration) and streaming to InfluxDB for analytics
-
-## 🎓 Education
-
-**K.R. Mangalam University, Gurgaon**
-B.Tech — Computer Science and Engineering | GPA: 8.31
-Aug 2024 – Present
-
 ## 🤝 Connect with me
 
 <p align="left">
