@@ -7,7 +7,7 @@ I'm a **Generative AI Developer** and **SIH 2025 National Finalist** with hands-
 
 - 🔭 Currently working on **production-grade RAG Systems & LLM Applications**
 - 🌱 Learning **LangMem, AI Agents with LangChain, Tool Calling, Agentic Workflows**
-- 🏆 **Smart India Hackathon 2025 National Finalist** — Team XENITH (Top teams across India)
+- 🏆 **Smart India Hackathon 2025 National Finalist**
 - 💬 Ask me about **LangChain, RAG, FastAPI, LLMs, Agentic AI**
 
 ## 💻 Technical Skills
