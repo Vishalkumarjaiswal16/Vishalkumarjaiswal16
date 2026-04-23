@@ -27,7 +27,6 @@ I'm a **Generative AI Developer** and **SIH 2025 National Finalist** with hands-
   <img src="https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/NLP-0052CC?style=for-the-badge&logo=ai&logoColor=white" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge" alt="Prompt Engineering"/>
 </p>
 
 #### Agentic AI 
