@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">Generative AI Developer | B.Tech Undergraduate</h3>
+<h3 align="center">Generative AI Developer | SIH 2025 National Finalist | B.Tech Undergraduate</h3>
 
 ## 🚀 About Me
 
-I'm a **Generative AI Developer** focused on building intelligent systems using Machine Learning and Artificial Intelligence.
-Hands-on experience with **Large Language Models**, **LangChain**, and **Retrieval-Augmented Generation**. Skilled in creating
-AI-powered, full-stack and automation-based solutions while exploring scalable RAG architectures.
+I'm a **Generative AI Developer** and **SIH 2025 National Finalist** with hands-on experience building production-grade, end-to-end LLM and RAG applications — from system architecture to live deployment. Skilled in **LangChain**, **FastAPI**, **vector databases**, and full-stack AI systems, with a focus on document intelligence, scalable retrieval pipelines, and real-world AI product development.
 
-- 🔭 Currently working on **RAG Systems & LLM Applications**
-- 🌱 Learning **Advanced RAG Architectures, Multi-Agent Systems**
-- 🏆 **Smart India Hackathon 2025 Finalist**
+- 🔭 Currently working on **production-grade RAG Systems & LLM Applications**
+- 🌱 Learning **LangMem, AI Agents with LangChain, Tool Calling, Agentic Workflows**
+- 🏆 **Smart India Hackathon 2025 National Finalist** — Team XENITH (Top teams across India)
+- 💬 Ask me about **LangChain, RAG, FastAPI, LLMs, Agentic AI**
 
 ## 💻 Technical Skills
 
 ### Languages
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="display:inline;"/>
-  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="display:inline;"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="display:inline;"/></a>
 </p>
 
@@ -28,6 +26,16 @@ AI-powered, full-stack and automation-based solutions while exploring scalable R
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/NLP-0052CC?style=for-the-badge&logo=ai&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge" alt="Prompt Engineering"/>
+</p>
+
+#### Agentic AI (Latest)
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Agents%20with%20LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="AI Agents with LangChain"/>
+  <img src="https://img.shields.io/badge/Tool%20Calling-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" alt="Tool Calling"/>
+  <img src="https://img.shields.io/badge/LangMem-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LangMem"/>
+  <img src="https://img.shields.io/badge/Agentic%20Workflows-00897B?style=for-the-badge" alt="Agentic Workflows"/>
 </p>
 
 #### Frameworks
@@ -38,12 +46,20 @@ AI-powered, full-stack and automation-based solutions while exploring scalable R
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
+#### Cloud & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Bedrock"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+</p>
+
 #### Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 </p>
 
 #### Tools
@@ -51,18 +67,59 @@ AI-powered, full-stack and automation-based solutions while exploring scalable R
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
 </p>
 
 #### Databases
 <p align="left">
+  <img src="https://img.shields.io/badge/FAISS-00897B?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" alt="ChromaDB"/>
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
 </p>
+
+## 💼 Experience
+
+### AI Developer | SIH Grand Finalist
+**Smart India Hackathon 2025** — Onsite, Puducherry | Oct 2025 – Dec 2025
+
+- Developed 2 sequential ML models (Random Forest ore hardness classifier + Regression RPM optimizer) achieving **8–15% energy reduction** via MQTT autonomous control loop on the **Mine Sarthi** platform
+- Reached the **National Final at SIH 2025** as part of **Team XENITH**, competing against **500+ teams** across India for Problem Statement ID 25210
+- Stack: Python, FastAPI, React, Docker
+
+## 🔥 Projects
+
+### 🧠 VeriDoc — Enterprise RAG Knowledge Assistant
+`Python` `FastAPI` `LangChain` `Docker`
+
+- Built a production-grade, end-to-end RAG platform covering the full lifecycle: system architecture, backend API development, retrieval pipeline engineering, frontend integration, and live deployment
+- Engineered a document intelligence pipeline supporting conversational QA, summarization, and structured knowledge retrieval with chat history, document library management, and Docker-based production hosting
+
+### ✈️ Air India RAG Chatbot
+`Python` `AWS Bedrock` `ChromaDB` `Boto3`
+
+- Engineered a document-grounded RAG pipeline with LangChain and ChromaDB; integrated **AWS Bedrock** for secure, scalable LLM inference ensuring full data privacy and compliance within the customer's AWS account
+
+### 🎬 YouTube Video Chatbot
+`Python` `LangChain` `OpenAI API` `FAISS` `Streamlit`
+
+- Built an end-to-end RAG pipeline transforming any YouTube video into a queryable knowledge base, with automatic multi-language transcript translation for expanded accessibility
+
+### ⛏️ Mine Sarthi — AI-Powered Mining Energy Optimization
+`Python` `FastAPI` `React` `Scikit-learn` `MQTT`
+
+- Developed 2 sequential ML models achieving **8–15% energy reduction** via MQTT autonomous control loop
+- Built a real-time IoT data pipeline collecting 9 operational parameters (power, RPM, feed rate, temperature, vibration) and streaming to InfluxDB for analytics
+
+## 🎓 Education
+
+**K.R. Mangalam University, Gurgaon**
+B.Tech — Computer Science and Engineering | GPA: 8.31
+Aug 2024 – Present
 
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vishal-kumar-614924325/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal kumar" height="30" width="40" style="display:inline;"/></a>&nbsp;&nbsp;<a href="https://www.leetcode.com/u/Vishalkumar4141" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalkumar4141" height="30" width="40" style="display:inline;"/></a>&nbsp;&nbsp;
-  <a href="https://geeksforgeeks.org/profile/vishaljaixzzv" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishaljaixzzv" height="30" width="40" style="display:inline;"/></a>
+  <a href="https://www.linkedin.com/in/vishal-kumar-614924325/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vishal kumar"/></a>
+  <a href="https://www.leetcode.com/u/Vishalkumar4141" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="vishalkumar4141"/></a>
+  <a href="https://geeksforgeeks.org/profile/vishaljaixzzv" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="vishaljaixzzv"/></a>
 </p>
