@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a **Generative AI Developer** and **SIH 2025 National Finalist** with hands-on experience building production-grade, end-to-end LLM and RAG applications — from system architecture to live deployment. Skilled in **LangChain**, **FastAPI**, **vector databases**, and full-stack AI systems, with a focus on document intelligence, scalable retrieval pipelines, and real-world AI product development.
+I'm a **Generative AI Developer** and **SIH 2025 National Finalist** with hands-on experience building production-grade, end-to-end LLM and RAG applications. Skilled in **LangChain**, **FastAPI**, **vector databases**, and full-stack AI systems, with a focus on document intelligence, scalable retrieval pipelines, and real-world AI product development.
 
 - 🔭 Currently working on **production-grade RAG Systems & LLM Applications**
 - 🌱 Learning **LangMem, AI Agents with LangChain, Tool Calling, Agentic Workflows**
@@ -30,7 +30,7 @@ I'm a **Generative AI Developer** and **SIH 2025 National Finalist** with hands-
   <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge" alt="Prompt Engineering"/>
 </p>
 
-#### Agentic AI (Latest)
+#### Agentic AI 
 <p align="left">
   <img src="https://img.shields.io/badge/AI%20Agents%20with%20LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="AI Agents with LangChain"/>
   <img src="https://img.shields.io/badge/Tool%20Calling-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" alt="Tool Calling"/>
