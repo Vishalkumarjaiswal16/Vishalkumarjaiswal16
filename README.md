@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a **Generative AI Developer** and **SIH 2025 National Finalist** with hands-on experience building production-grade, end-to-end LLM and RAG applications. Skilled in **LangChain**, **FastAPI**, **vector databases**, and full-stack AI systems, with a focus on scalable retrieval pipelines and real-world AI product development.
+I'm a **AI Researcher** and **SIH 2025 National Finalist** with hands-on experience building production-grade, end-to-end LLM and RAG applications. Skilled in **LangChain**, **FastAPI**, **vector databases**, and full-stack AI systems, with a focus on scalable retrieval pipelines and real-world AI product development.
 
 - 🔭 Currently working on **production-grade RAG Systems & LLM Applications**
 - 🌱 Learning **LangMem, AI Agents with LangChain, Tool Calling, Agentic Workflows**
