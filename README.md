@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">Generative AI Developer | B.Tech Undergraduate</h3>
+<h3 align="center">UnderGrad AI Researcher | B.Tech Undergraduate</h3>
 
 ## 🚀 About Me
 
